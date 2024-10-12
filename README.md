@@ -4,5 +4,5 @@ You can give it a list of domains, and it downloads and saves the large subdomai
 It also provides the option to save subdomains files seperately for each domain or collects all of them into one subdomain file.
 
 **Usage**
-	chmod +x shrewdeye
-	./shrewdeye <filename>
+	- chmod +x shrewdeye
+	- ./shrewdeye <filename>
